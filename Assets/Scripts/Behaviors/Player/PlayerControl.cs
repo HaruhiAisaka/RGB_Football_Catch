@@ -22,11 +22,6 @@ public class PlayerControl : MonoBehaviour
         playerMovement.UpdateInputDirection(direction);
     }
 
-    // void UpdateRun(bool value)
-    // {
-    //     playerMovement.SetRun(value);
-    // }
-
     private void OnEnable()
     {
         controls.Player.Enable();

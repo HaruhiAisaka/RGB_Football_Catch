@@ -22,12 +22,7 @@ public class PlayerMovement : MonoBehaviour
     {
         this._direction = direction;
     }
-
-    // public void SetRun(bool run)
-    // {
-    //     this.run = run;
-    // }
-
+    
     private void MovePlayer()
     {
 

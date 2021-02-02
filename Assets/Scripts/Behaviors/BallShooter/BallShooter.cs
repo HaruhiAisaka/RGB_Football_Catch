@@ -20,6 +20,7 @@ public class BallShooter : MonoBehaviour
         GetBallDataFromResources();
     }
     
+    // Gets the ball data stored as JSON files in the resources folder.
     private void GetBallDataFromResources()
     {
         TextAsset[] ballJSONs = Resources.LoadAll<TextAsset>("Balls");
