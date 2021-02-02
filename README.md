@@ -6,7 +6,7 @@ Each ball caught counts as 1 point, with the number of points received from catc
 
 ## Download Links:
 **Windows:**  https://github.com/HaruhiAisaka/RGB_Football_Catch/releases/tag/v1.0  
-**Mac** https://github.com/HaruhiAisaka/RGB_Football_Catch/releases/tag/v1.0Mac
+**Mac** https://github.com/HaruhiAisaka/RGB_Football_Catch/releases/tag/v1.0Mac  
 *Note: Mac build has not yet been tested*
 
 ### Knowledge Demonstrated in this Project
