@@ -7,4 +7,5 @@ public class Player : MonoBehaviour
     [Header("Components")]
     public PlayerControl playerControl;
     public PlayerMovement playerMovement;
+    public PlayerContactBall playerContactBall;
 }
